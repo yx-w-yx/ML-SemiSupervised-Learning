@@ -1,0 +1,30 @@
+{
+  "test_accuracy": 0.9013062409288825,
+  "confusion_matrix": [
+    [
+      36,
+      48
+    ],
+    [
+      20,
+      585
+    ]
+  ],
+  "n_components": 8,
+  "best_params": {
+    "knn": {
+      "n_neighbors": 5
+    },
+    "nn": {
+      "hidden_layer_sizes": [
+        20
+      ],
+      "learning_rate_init": 0.01
+    },
+    "dt": {
+      "max_depth": 3,
+      "min_samples_split": 2
+    }
+  },
+  "pca_variance_explained": 0.9095311854740367
+}
