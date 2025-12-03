@@ -45,8 +45,8 @@ python step6_comparison.py
 
 ## Results
 
-**Diabetes:** Test Accuracy = [your result]  
-**Cancer:** Test Accuracy = [your result]
+**Diabetes:** Test Accuracy =  0.8759 
+**Cancer:** Test Accuracy = 0.9013
 
 **K-means Quality:** Silhouette Score = 0.45
 
