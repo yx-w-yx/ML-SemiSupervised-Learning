@@ -51,6 +51,4 @@ python step6_comparison.py
 
 **K-means Quality:** Silhouette Score = 0.45
 
-## Author
 
-Yuexin Zhang - Northeastern University MGEN Program
